@@ -121,13 +121,15 @@ h6{
 .padding-close{
    padding-left: 40px;
    padding-right: 50px;
+   
 }
 h2{
     font-size: 35px;
 }
 .health img{
     width: 80%;
-    padding-top: 30%;
+    padding-top: 15%;
+    border-radius: 20px ;
 }
 .orange{
     color: cornflowerblue;
