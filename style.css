@@ -1,0 +1,91 @@
+.first-section{
+    display: flex;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
+    body{
+        font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+    }
+#color{
+    color: cornflowerblue;
+
+}
+.border-color{
+    border-left: olivedrab;
+}
+ h1{
+    font-size: 50px;
+    font-style: italic;
+}
+.half-width{
+    width:50%;
+    padding: 7%;
+}
+.half-width img {
+    width: 80%;
+}
+.decoration{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(236, 26, 26),tomato);
+    color: white;
+    padding: 8px 25px;
+    border-radius: 7px;
+    font-weight: 300px;
+}
+#font-style{
+    font-style: normal;
+    text-align: center;
+}
+span{
+    color: cornflowerblue;
+}
+.mission{
+    width: 250px;
+    background-color: rgb(222, 252, 252);
+    padding: 40px;
+    border-radius: 30px;
+}
+.mission img{
+    width: 100%;
+}
+.vission{
+    width: 250px;
+    background-color: rgb(250, 233, 235);
+    padding: 40px;
+    border-radius: 30px;
+}
+.vission img{
+    width: 100%;
+}
+.goals{
+    width: 250px;
+    background-color: rgb(247, 182, 152);
+    padding: 40px;
+    border-radius: 30px;
+}
+.goals img{
+    width: 100%;
+}
+.flex-parent{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+   
+}
+.develop{
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.font-color{
+    font-size:40px ;
+}
+
+
+
+
+
