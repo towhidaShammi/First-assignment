@@ -89,7 +89,7 @@ span{
     font-size:40px ;
 }
 .global img{
-    width:40%;
+    width:80%;
     
 }
 .span-color{
@@ -115,7 +115,20 @@ h6{
     padding-top: 30px;
     font-family: cursive;
    }
-
-
-
-
+  #center{
+      text-align: center;
+  }
+.padding-close{
+   padding-left: 40px;
+   padding-right: 50px;
+}
+h2{
+    font-size: 35px;
+}
+.health img{
+    width: 80%;
+    padding-top: 30%;
+}
+.orange{
+    color: cornflowerblue;
+}
