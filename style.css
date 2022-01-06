@@ -7,13 +7,15 @@
     body{
         font-family: 'Open Sans', sans-serif;
 font-family: 'Poppins', sans-serif;
-    }
+margin: 0px;
+ }
 #color{
     color: cornflowerblue;
 
 }
 .border-color{
-    border-left: olivedrab;
+    border-left: 5px solid rgb(236, 16, 53);
+    padding-left: 7px;
 }
  h1{
     font-size: 50px;
@@ -80,11 +82,39 @@ span{
     display: flex;
     margin-left: 80px;
     margin-right: 80px;
+    
+    
 }
 .font-color{
     font-size:40px ;
 }
+.global img{
+    width:40%;
+    
+}
+.span-color{
+    color: rgb(211, 42, 42);}
+    #white{
+        color: white;
+    }
+   
 
+.footer{
+    text-align: center;
+    background-color:black;
+    height: 130px;
+    
+}
+h6{
+    color: rgb(54, 86, 99);
+    
+    
+    
+}
+#footer-padding{
+    padding-top: 30px;
+    font-family: cursive;
+   }
 
 
 
